@@ -1,0 +1,6 @@
+{
+  "name": "Motos Bow - Repuestos, Accesorios & APK",
+  "description": "Tienda oficial de repuestos, lubricantes y accesorios para motos con instalación APK para Android y funcionamiento offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
